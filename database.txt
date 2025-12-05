@@ -6775,6 +6775,17 @@
         ],
         "has_shiny": true
     },
+    "Landorus": {
+        "stats": [
+            1200,
+            125,
+            90,
+            115,
+            80,
+            201
+        ],
+        "has_shiny": true
+    },
     "Kyurem": {
         "stats": [
             1050,
@@ -8568,5 +8579,6 @@
         ],
         "has_shiny": true
     }
+
 
 }
